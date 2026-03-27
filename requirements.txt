@@ -1,0 +1,11 @@
+streamlit
+sentence-transformers
+faiss-cpu
+torch
+transformers
+accelerate
+google-generativeai
+requests
+beautifulsoup4
+python-dotenv
+openai
