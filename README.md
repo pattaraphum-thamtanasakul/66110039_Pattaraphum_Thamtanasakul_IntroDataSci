@@ -25,6 +25,8 @@ and answer questions about them.
 ### Gemini Model (Free API)
 ![Gemini](Screenshots/Gemini.png)
 
+> **Note:** Since I do not have an OpenAI API key, I have not tested the OpenAI GPT-4o-mini model.
+
 ---
 
 ## Features
