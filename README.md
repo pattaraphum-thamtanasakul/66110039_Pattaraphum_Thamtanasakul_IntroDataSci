@@ -1,9 +1,7 @@
 # NewsAsk — RAG News Reader
 ### RAG News Reader - LLM AI-Powered News Summary and Q&A System
 
-**Student ID:** 66110039
-**Name:** Pattaraphum Thamtanasakul
-**Course:** 01416415 INTRODUCTION TO DATA SCIENCE
+
 
 ---
 
